@@ -10,7 +10,7 @@
 		},
 		"home": {
 			"headline": "Welcome! I'm Artur Drapak,",
-			"intro": "а Computer Science student at Collegium Da Vinci. This site showcases my: background, experience, and passion for IT and creativity.",
+			"intro": "A Computer Science student at Collegium Da Vinci. This site showcases my: background, experience, and passion for IT and creativity.",
 			"download_cv": "Download CV",
 			"projects_title": "My Projects",
 			"cv_file": "../files/CV_Intership Informatyka_Artur Drapak.pdf",
@@ -137,7 +137,7 @@
 		},
 		"home": {
 			"headline": "Witam! Nazywam się Artur Drapak,",
-			"intro": "jestem studentem informatyki na Collegium Da Vinci. Ta strona prezentuje moje: doświadczenie, wiedzę oraz pasję do IT i kreatywności.",
+			"intro": "Jestem studentem informatyki na Collegium Da Vinci. Ta strona prezentuje moje: doświadczenie, wiedzę oraz pasję do IT i kreatywności.",
 			"download_cv": "Pobierz CV",
 			"projects_title": "Moje Projekty",
 			"view_btn": "Zobacz Projekt",
