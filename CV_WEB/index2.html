@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="about.title">About Me — Artur Drapak</title>
+    <link rel="stylesheet" href="../css/global.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Rubik&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="menu-trigger"></div>
+    <div class="menu">
+        <div class="title"><h1><span data-i18n="menu.N">N</span><span data-i18n="menu.avigation">avigation</span></h1></div>
+        <div class="list-menu">
+            <ul>
+                <li>
+                    <a href="index.html" data-i18n="menu.home">Home</a>
+                </li>
+                <li><a href="index2.html" data-i18n="menu.about">About Me</a></li>
+                <li><a href="index3.html" data-i18n="menu.gallery">Gallery</a></li>
+            </ul>
+        </div>
+        <div class="language-switcher">
+            <button id="lang-btn">Language: EN</button>
+        </div>
+    </div>
+
+    <div class="page-wrapper">
+        <div class="about-wrapper">
+            <!-- Sidebar -->
+            <div class="about-sidebar">
+                <img src="../img/avatar.jpg" alt="Artur Drapak" class="profile-photo">
+
+                <div class="gold-box">
+                    <h2 data-i18n="about.languages">Languages</h2>
+                    <ul>
+                        <li data-i18n="about.language_list.0">Ukrainian — native</li>
+                        <li data-i18n="about.language_list.1">English — C1</li>
+                        <li data-i18n="about.language_list.2">Polish — B1</li>
+                        <li data-i18n="about.language_list.3">Russian — B2</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Main Info -->
+            <div class="about-main">
+                <div class="gold-box">
+                    <h1 data-i18n="about.title">About Me</h1>
+                    <p data-i18n="about.intro_1">My name is <strong>Artur Drapak</strong>, and I am a first-year student majoring in <strong>Computer Science</strong> at Collegium Da Vinci.</p>
+                    <p data-i18n="about.intro_2">I have completed programming courses in Ukraine and have a solid understanding of <strong>Python</strong> and <strong>C++</strong>. I also possess basic knowledge of <strong>HTML, CSS</strong> and have been introduced to <strong>JavaScript</strong>.</p>
+                    <p data-i18n="about.intro_3">I am hardworking, responsible, and always meet deadlines. I am eager to grow professionally in the IT field. I also have strong skills in self-directed learning, time management, and communication.</p>
+                </div>
+
+                <div class="gold-box">
+                    <h2 data-i18n="about.skills">Skills</h2>
+                    <ul>
+                        <li data-i18n="about.skills_list.0">Python, C++ (Junior level)</li>
+                        <li data-i18n="about.skills_list.1">HTML, CSS (Junior level)</li>
+                        <li data-i18n="about.skills_list.2">JavaScript (Trainee level)</li>
+                        <li data-i18n="about.skills_list.3">Git / GitHub (Basic knowledge)</li>
+                        <li data-i18n="about.skills_list.4">Linux (Basic system administration)</li>
+                    </ul>
+                </div>
+
+                <div class="gold-box">
+                    <h2 data-i18n="about.contact">Contact</h2>
+                    <ul>
+                        <li><span data-i18n="about.email">Email</span>: <a href="mailto:adrapak@edu.cdv.pl">adrapak@edu.cdv.pl</a></li>
+                        <li><span data-i18n="about.phone">Phone</span>: +48 575 838 225</li>
+                        <li><span data-i18n="about.city">City</span>: Poznań, Poland</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../scripts/lang.js"></script>
+</body>
+</html>

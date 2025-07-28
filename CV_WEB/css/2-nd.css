@@ -1,0 +1,55 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.about-wrapper {
+	display: flex;
+	padding: 40px;
+	gap: 40px;
+}
+
+.about-sidebar {
+	width: 300px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 30px;
+}
+
+.profile-photo {
+	width: 100%;
+	border-radius: 12px;
+	border-left: 3px solid gold;
+	border-top: 3px solid gold;
+	object-fit: cover;
+}
+
+.about-main {
+	flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+
+.gold-box {	
+	border-left: 2px solid gold;
+	border-top: 2px solid gold;
+	border-radius: 12px;
+	padding: 20px 25px;
+	background-color: rgba(255, 215, 0, 0.05);
+}
+
+	.gold-box h1,
+	.gold-box h2 {
+		color: gold;
+		margin-bottom: 15px;
+	}
+
+	.gold-box ul {
+		padding-left: 20px;
+	}
+
+	.gold-box li {
+		margin-bottom: 8px;
+	}

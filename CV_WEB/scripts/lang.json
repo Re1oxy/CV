@@ -1,0 +1,197 @@
+﻿{
+	"en": {
+		"language": "Language",
+		"menu": {
+			"N": "N",
+			"avigation": "avigation",
+			"home": "Home",
+			"about": "About Me",
+			"gallery": "Gallery"
+		},
+		"home": {
+			"headline": "Welcome! I'm Artur Drapak,",
+			"intro": "а Computer Science student at Collegium Da Vinci. This site showcases my: background, experience, and passion for IT and creativity.",
+			"download_cv": "Download CV",
+			"projects_title": "My Projects",
+			"cv_file": "../files/CV_Intership Informatyka_Artur Drapak.pdf",
+			"projects": {
+				"unity_game": {
+					"title": "🎮 Unity Game Project",
+					"desc": "Personal project created in Unity, focused on gameplay mechanics and design.",
+					"tech": "Tech: C# (Unity)"
+				},
+				"linux_server": {
+					"title": "💻 Linux Server Setup",
+					"desc": "Configured a basic Linux environment and automated tasks using shell scripts as part of my system administration practice.",
+					"tech": "Tech: Linux, Bash"
+				},
+				"ai_game": {
+					"title": "🧠 Number Guessing Game with GUI",
+					"desc": "A number guessing game made in Python with a graphical interface and a compiled .exe version. Includes input validation and randomized logic.",
+					"tech": "Tech: Python (tkinter), .exe build"
+				},
+				"view": "View on GitHub",
+				"disk": "View on Google Drive"
+			}
+		},
+		"about": {
+			"title": "About Me",
+			"intro_1": "My name is Artur Drapak, and I am a first-year student majoring in Computer Science at Collegium Da Vinci.",
+			"intro_2": "I have completed programming courses in Ukraine and have a solid understanding of Python and C++. I also possess basic knowledge of HTML, CSS and have been introduced to JavaScript.",
+			"intro_3": "I am hardworking, responsible, and always meet deadlines. I am eager to grow professionally in the IT field. I also have strong skills in self-directed learning, time management, and communication.",
+			"skills": "Skills",
+			"contact": "Contact",
+			"skills_list": [
+				"Python, C++ (Junior level)",
+				"HTML, CSS (Junior level)",
+				"JavaScript (Trainee level)",
+				"Git / GitHub (Basic knowledge)",
+				"Linux (Basic system administration)"
+			],
+			"email": "Email",
+			"phone": "Phone",
+			"city": "City",
+			"languages": "Languages",
+			"language_list": [
+				"Ukrainian — native",
+				"English — C1",
+				"Polish — B1",
+				"Russian — B2"
+			]
+		},
+		"gallery": {
+			"title": "Gallery",
+			"caption": "Some of my favorite nature photos"
+		}
+	},
+	"ua": {
+		"language": "Мова",
+		"menu": {
+			"N": "Н",
+			"avigation": "авігація",
+			"home": "Головна",
+			"about": "Про мене",
+			"gallery": "Галерея"
+		},
+		"home": {
+			"headline": "Ласкаво просимо! Я — Артур Драпак,",
+			"intro": "Студент комп’ютерних наук у Collegium Da Vinci. Цей сайт демонструє мої: знання, досвід і захоплення ІТ та креативністю.",
+			"download_cv": "Завантажити резюме",
+			"projects_title": "Мої проєкти",
+			"view_btn": "Переглянути проєкт",
+			"cv_file": "../files/CV_Стажування Інформатика_Артур_Драпак_UA.pdf",
+			"projects": {
+				"unity_game": {
+					"title": "🎮 Проєкт гри на Unity",
+					"desc": "Особистий проєкт, створений у Unity, з акцентом на механику і дизайн ігрового процесу.",
+					"tech": "Технології: C# (Unity)"
+				},
+				"linux_server": {
+					"title": "💻 Налаштування сервера Linux",
+					"desc": "Налаштовано базове оточення Linux та автоматизація завдань за допомогою shell-скриптів у рамках практики системного адміністрування.",
+					"tech": "Технології: Linux, Bash"
+				},
+				"ai_game": {
+					"title": "🧠 Гра з вгадуванням чисел і інтерфейсом",
+					"desc": "Гра на Python з графічним інтерфейсом та збіркою .exe. Використовується валідація вводу та випадкова логіка.",
+					"tech": "Технології: Python (tkinter), .exe-файл"
+				},
+				"view": "Переглянути на GitHub",
+				"disk": "Переглянути на Google Диску"
+			}
+		},
+		"about": {
+			"title": "Про мене",
+			"intro_1": "Мене звати Артур Драпак, я студент першого курсу спеціальності Інформатика в Collegium Da Vinci.",
+			"intro_2": "Я пройшов курси програмування в Україні та добре розумію Python і C++. Також маю базові знання HTML, CSS і почав вивчати JavaScript.",
+			"intro_3": "Я працелюбний, відповідальний і завжди дотримуюсь термінів. Хочу розвиватися професійно в сфері IT. Маю хороші навички самоосвіти, управління часом та комунікації.",
+			"skills": "Навички",
+			"contact": "Контакти",
+			"skills_list": [
+				"Python, C++ (початковий рівень)",
+				"HTML, CSS (початковий рівень)",
+				"JavaScript (стажер)",
+				"Git / GitHub (базові знання)",
+				"Linux (адміністрування — база)"
+			],
+			"email": "Електронна пошта",
+			"phone": "Телефон",
+			"city": "Місто",
+			"languages": "Мови",
+			"language_list": [
+				"Українська — рідна",
+				"Англійська — C1",
+				"Польська — B1",
+				"Російська — B2"
+			]
+		}
+	},
+	"pl": {
+		"language": "Język",
+		"menu": {
+			"N": "N",
+			"avigation": "awigacja",
+			"home": "Strona główna",
+			"about": "O mnie",
+			"gallery": "Galeria"
+		},
+		"home": {
+			"headline": "Witamy! Nazywam się Artur Drapak,",
+			"intro": "jestem studentem informatyki na Collegium Da Vinci. Ta strona prezentuje moje: doświadczenie, wiedzę oraz pasję do IT i kreatywności.",
+			"download_cv": "Pobierz CV",
+			"projects_title": "Moje Projekty",
+			"view_btn": "Zobacz Projekt",
+			"cv_file": "../files/CV_Staż Informatyka_Artur Drapak.pdf",
+			"projects": {
+				"unity_game": {
+					"title": "🎮 Projekt gry w Unity",
+					"desc": "Projekt osobisty stworzony w Unity, skupiony na mechanice rozgrywki i projektowaniu.",
+					"tech": "Technologie: C# (Unity)"
+				},
+				"linux_server": {
+					"title": "💻 Konfiguracja serwera Linux",
+					"desc": "Skonfigurowano podstawowe środowisko Linux i zautomatyzowano zadania za pomocą skryptów powłoki w ramach praktyki z administracji systemem.",
+					"tech": "Technologie: Linux, Bash"
+				},
+				"ai_game": {
+					"title": "🧠 Gra zgadywanka z interfejsem",
+					"desc": "Gra zgadywanka w Pythonie z interfejsem graficznym i wersją .exe. Zawiera walidację danych wejściowych i losową logikę.",
+					"tech": "Technologie: Python (tkinter), plik .exe"
+				},
+				"view": "Zobacz na GitHub",
+				"disk": "Zobacz na Dysku Google"
+			}
+
+		},
+		"about": {
+			"title": "O Mnie",
+			"intro_1": "Nazywam się Artur Drapak i jestem studentem pierwszego roku informatyki w Collegium Da Vinci.",
+			"intro_2": "Ukończyłem kursy programowania na Ukrainie i dobrze znam Python i C++. Mam też podstawową wiedzę z HTML, CSS i zacząłem uczyć się JavaScript.",
+			"intro_3": "Jestem pracowity, odpowiedzialny i dotrzymuję terminów. Chcę rozwijać się zawodowo w branży IT. Posiadam dobre umiejętności samodzielnej nauki, zarządzania czasem i komunikacji.",
+			"skills": "Umiejętności",
+			"contact": "Kontakt",
+			"skills_list": [
+				"Python, C++ (poziom podstawowy)",
+				"HTML, CSS (poziom podstawowy)",
+				"JavaScript (praktykant)",
+				"Git / GitHub (wiedza podstawowa)",
+				"Linux (podstawowa administracja)"
+			],
+			"email": "Email",
+			"phone": "Telefon",
+			"city": "Miasto",
+			"languages": "Języki",
+			"language_list": [
+				"Ukraiński — ojczysty",
+				"Angielski — C1",
+				"Polski — B1",
+				"Rosyjski — B2"
+			]
+		},
+		"gallery": {
+			"title": "Galeria",
+			"caption": "Moje ulubione zdjęcia przyrody"
+		}
+	}
+}
+	

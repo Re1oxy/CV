@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artur Drapak — Portfolio</title>
+    <link rel="stylesheet" href="css/global.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Rubik&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div class="menu-trigger"></div>
+    <div class="menu">
+        <div class="title"><h1><span data-i18n="menu.N">N</span><span data-i18n="menu.avigation">avigation</span></h1></div>
+        <div class="list-menu">
+            <ul>
+                <li>
+                    <a href="index.html" data-i18n="menu.home">Home</a>
+                </li>
+                <li><a href="index2.html" data-i18n="menu.about">About Me</a></li>
+                <li><a href="index3.html" data-i18n="menu.gallery">Gallery</a></li>
+            </ul>
+        </div>
+        <div class="language-switcher">
+            <button id="lang-btn">Language: EN</button>
+        </div>
+    </div>
+
+    <div class="page-wrapper">
+        <h1 class="headline" data-i18n="home.headline">Artur Drapak — Portfolio</h1>
+        <p class="intro-text" data-i18n="home.intro">
+            Welcome! I'm <strong>Artur Drapak</strong>, a Computer Science student at Collegium Da Vinci.<br>
+            This site showcases my background, experience, and passion for IT and creativity.
+        </p>
+
+        <a id="cv-link" href="../files/CV_Intership Informatyka_Artur Drapak.pdf" class="download-btn" data-i18n="home.download_cv" download>Download CV</a>
+
+        <div class="projects-section">
+            <h2 data-i18n="home.projects_title">My Projects</h2>
+
+            <div class="project-card">
+                <h3 data-i18n="home.projects.unity_game.title">🎮 Unity Game Project</h3>
+                <p data-i18n="home.projects.unity_game.desc">Personal project created in Unity, focused on gameplay mechanics and design.</p>
+                <p><strong data-i18n="home.projects.unity_game.tech">Tech:</strong> C# (Unity)</p>
+                <a href="https://drive.google.com/drive/folders/1cCqn0DMNUifp4mzEJwOFXlCo9KTiF7gX?usp=drive_link" class="view-btn" data-i18n="home.projects.disk">View on Google Drive</a>
+            </div>
+
+            <div class="project-card">
+                <h3 data-i18n="home.projects.linux_server.title">💻 Linux Server Setup</h3>
+                <p data-i18n="home.projects.linux_server.desc">Configured a basic Linux environment and automated tasks using shell scripts as part of my system administration practice.</p>
+                <p><strong data-i18n="home.projects.linux_server.tech">Tech:</strong> Linux, Bash</p>
+            </div>
+
+            <div class="project-card">
+                <h3 data-i18n="home.projects.ai_game.title">🧠 Simple AI Guessing Game</h3>
+                <p data-i18n="home.projects.ai_game.desc">A terminal-based number guessing game in Python using loops, randomization, and user input validation.</p>
+                <p><strong data-i18n="home.projects.ai_game.tech">Tech:</strong> Python</p>
+                <a href="https://github.com/Re1oxy/Guess_Number" class="view-btn" target="_blank" data-i18n="home.projects.view">View on GitHub</a>
+            </div>
+        </div>
+    </div>
+    <script src="scripts/lang.js"></script>
+</body>
+</html>
